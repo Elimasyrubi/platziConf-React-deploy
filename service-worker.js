@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/platziConf-React/precache-manifest.071d2de6c3e8e2153b5c9ba4712ca390.js"
+  "/platziConf-React/precache-manifest.ac91ff5486c7172a8e0621994d3a23d2.js"
 );
 
 workbox.clientsClaim();
