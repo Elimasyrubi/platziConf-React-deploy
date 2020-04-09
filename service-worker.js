@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/platziConf-React/precache-manifest.ac91ff5486c7172a8e0621994d3a23d2.js"
+  "/platziConf-React-deploy/precache-manifest.d66c34eec9ebb4cb6a676262411c38ca.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/platziConf-React/index.html", {
+workbox.routing.registerNavigationRoute("/platziConf-React-deploy/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
