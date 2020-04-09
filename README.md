@@ -2,4 +2,4 @@
 
 Este es el deploy del [ Proyecto PlatziConf](https://github.com/Elimasyrubi/PlatziConf-con-Reactjs " Proyecto PlatziConf")
 - Ver [Repositorio](https://github.com/Elimasyrubi/PlatziConf-con-Reactjs "proyecto Crado con React  ") 
-- Ver [deployd](https://elimasyrubi.github.io/platziConf-React-deploy/ "aqui")
+- Ver [deploy](https://elimasyrubi.github.io/platziConf-React-deploy/ "aqui")
